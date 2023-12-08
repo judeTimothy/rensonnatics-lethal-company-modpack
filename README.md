@@ -47,5 +47,4 @@ If you have downloaded this modpack before (1.3.5 and below), make sure to unins
 - Brutal_Company_Reborn
 
 **NOTE:**
-You need to use Thunderstore to download the mods in this modpack. You also need to manually update mods if there is an update, i am sometimes not up to speed with the mods.
-Link - https://thunderstore.io/c/lethal-company/p/YUME_Interactive/Rensonnatics_ModPack/
+You need to use Thunderstore to download the mods in this modpack. You also need to manually update mods if there is an update, i am sometimes not up to speed with the mods. https://thunderstore.io/c/lethal-company/p/YUME_Interactive/Rensonnatics_ModPack/
